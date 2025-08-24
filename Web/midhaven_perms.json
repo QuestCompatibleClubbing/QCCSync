@@ -2,23 +2,23 @@
 	"WorldPerms": {
 		"Admin": [
 			"Llamahat",
-      "GiggleL0rd",
-      "Cruzbot",
-      "WYLDA",
-      "Pop․Punk․Trash",
-      "AlwaysLax16"
+			"GiggleL0rd",
+			"Cruzbot",
+			"WYLDA",
+			"Pop․Punk․Trash",
+			"AlwaysLax16"
 		],
 		"Staff": [
-      "NotHunterPayne"
+			"NotHunterPayne"
 		],
 		"DJ": [
-
+			"Llamahat"
 		],
-		"AV": [
-      
-    ],
 		"Dancer": [
-      
-    ]
+			"Llamahat"
+    	],
+		"VIP": [
+			"Llamahat"
+		]
 	}
 }
